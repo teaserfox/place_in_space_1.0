@@ -19,4 +19,4 @@ A platform for publishing records by users. The publication can be free, that is
 - docker
 - PEP8
 
-#### The author of the project isTatiana Kokorina
+#### The author of the project is Tatiana Kokorina 
