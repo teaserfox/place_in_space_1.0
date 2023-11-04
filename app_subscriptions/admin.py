@@ -1,3 +1,5 @@
 from django.contrib import admin
 
-# Register your models here.
+from app_subscriptions.models import Subscriptions
+
+admin.site.register(Subscriptions)
