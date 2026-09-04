@@ -1,6 +1,5 @@
 # <img src="https://img.freepik.com/premium-photo/isolated-planet-globe_13339-192196.jpg?w=1060" width="89"/> place_in_space
 
-# 📚 Place in Space
 
 ### Platform for publishing free and paid content
 
